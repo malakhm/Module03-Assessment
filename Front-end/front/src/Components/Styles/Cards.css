@@ -1,0 +1,9 @@
+.Card-Component-Main{
+    width: 200px !important;
+    height: auto;
+    background-color: aqua;
+}
+
+.Card-Component-Main img{
+    width: 200px;
+}

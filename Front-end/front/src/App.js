@@ -1,8 +1,10 @@
-
+import Header from '../src/Components/Header.js'
+import Home from './Pages/Home.js';
+import Cards from '../src/Components/Cards.js'
 function App() {
   return (
     <div className="App">
-      <h1>Hellooooooo</h1>
+      <Home/>
     </div>
   );
 }
